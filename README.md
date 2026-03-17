@@ -1,2 +1,0 @@
-# snsbuilders
-shape web
